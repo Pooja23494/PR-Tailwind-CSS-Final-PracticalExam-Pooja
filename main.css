@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+@theme {
+
+    /* Font */
+    --font-poppins: "Poppins", sans-serif;
+
+    --animate-scroll-rtl: scroll-right-to-left 20s infinite;
+
+    @keyframes scroll-right-to-left {
+        0% {
+            transform: translateX(0);
+        }
+
+        100% {
+            transform: translateX(-50%);
+        }
+    }
+
+    --animate-scroll-ltr: scroll-left-to-right 20s infinite;
+
+    @keyframes scroll-left-to-right {
+        0% {
+            transform: translateX(-50%);
+        }
+
+        100% {
+            transform: translateX(0);
+        }
+    }
+}
