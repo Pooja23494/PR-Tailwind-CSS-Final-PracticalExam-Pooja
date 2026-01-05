@@ -5,7 +5,9 @@ This is a **responsive landing page built with Tailwind CSS and vanilla JavaScri
 --
 
 ## 📁 Live Demo
+
 Original Site: https://themewagon.github.io/Pixels/
+
 Check the live deployed site:  
 **https://pr-tailwind-css-final-practical-exa.vercel.app/**
 
