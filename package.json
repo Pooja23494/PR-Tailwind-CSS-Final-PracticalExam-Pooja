@@ -7,7 +7,7 @@
   "name": "pr-tailwind-css-final-practicalexam-pooja",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "script.js",
   "scripts": {
   "dev": "node node_modules/vite/bin/vite.js",
   "build": "node node_modules/vite/bin/vite.js build",
